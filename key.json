@@ -29,6 +29,13 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
+    },
+    "TEMP-TZW41N": {
+      "hwid": "RESET",
+      "expireDate": "2026-10-04",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
