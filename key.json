@@ -40,9 +40,9 @@
     "DPMods-8LBAO8": {
       "hwid": "BAFFE5E86A598737",
       "expireDate": "2026-10-04",
-      "isBanned": false,
+      "isBanned": true,
       "banReason": "",
-      "userRank": "Supreme User"
+      "userRank": "USER"
     }
   }
 }
